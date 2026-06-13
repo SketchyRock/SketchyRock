@@ -21,8 +21,3 @@ I am highly motivated to pursue a career within the **Government or Defense Cont
 * **Weight Lifting**
 * **Gaming**
 * **YouTube Video Creation**
-
----
-
-### 📊 My GitHub Stats
-[<img src="https://github-readme-stats.vercel.app/api?username=SketchyRock&show_icons=true&theme=dracula" alt="Enzo's GitHub Stats" />](https://github.com/anuraghazra/github-readme-stats)
